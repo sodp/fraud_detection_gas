@@ -53,4 +53,4 @@ Follow these instructions to utilize the web app on your laptop:Clone the projec
 * Install the required dependencies by running pip install -r requirements.txt in your terminal/command prompt.
 * Navigate to the project directory and run streamlit run fraud.py to launch the web-based application.
 You should now be able to view the app on your local machine.😃
-Here is the link to the [deployed model]()
+Here is the link to the [deployed model](https://frauddetectiongas-sodp.streamlit.app/)
